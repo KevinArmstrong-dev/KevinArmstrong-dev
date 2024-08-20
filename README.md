@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinArmstrong-dev
-- 👀 I’m interested in mostly backend and learning new things.
-- 🌱 I’m currently learning docker + k8
+- 👀 I’m interested in learning new things.
+- 🌱 I’m currently learning Angular framework
 - 💞️ I’m looking to collaborate on any project
 - 📫 you can reach me by email: krwigamba@gmail.com
 
